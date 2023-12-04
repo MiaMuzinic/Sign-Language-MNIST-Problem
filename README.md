@@ -1,1 +1,3 @@
 # Sign-Language-MNIST-Problem
+
+This project, my first in the Data Science and Engineering graduate program during the Machine Learning course, focused on using Convolutional Neural Networks (CNNs) for the Sign Language MNIST problem. Using Python libraries like Keras and Pandas, the goal was to build a model to accurately classify hand gestures from 28x28 pixel grayscale images. The project involved data preprocessing, training a CNN model, and evaluating its performance with metrics like accuracy and confusion matrices. It served as an initial exploration into using machine learning for recognizing sign language gestures.
